@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+uvicorn = "*"
+"mysql.connector" = "*"
+sql = "*"
+python-multipart = "*"
+python-dotenv = "*"
+
+[dev-packages]

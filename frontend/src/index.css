@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.bt{
+  background-color: #93a9d4;
+  color: white;
+  border: 2px solid #61dafb;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.import{
+  position :relative;
+  top: 65.5px;
+  margin-left: 10px;
+  margin-right: 170px;
+  
+}
+.data{
+  margin-right:240px;
+}
+#csvFileInput{
+  margin-left: 235px;
+}
+/* Your existing styles for .bt, .import, .data, and #csvFileInput */
+
+/* Additional styles for responsive layout */
+@media (max-width: 768px) {
+  /* Apply this style only for screens up to 768px wide */
+  .import {
+    margin-right: 10px; /* Reduce the right margin */
+  }
+  .data {
+    margin-right: 10px; /* Reduce the right margin */
+  }
+  #csvFileInput {
+    margin-left: 10px; /* Reduce the left margin */
+  }
+}
+
+@media (max-width: 480px) {
+  /* Apply this style only for screens up to 480px wide */
+  form {
+    flex-direction: column; /* Stack the form elements vertically */
+  }
+  .import {
+    margin-right: 0; /* Remove the right margin */
+    margin-bottom: 10px; /* Add bottom margin for spacing */
+  }
+  .data {
+    margin-right: 0; /* Remove the right margin */
+  }
+}
