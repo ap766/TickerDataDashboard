@@ -66,7 +66,7 @@ function App() {
           accept={".csv"}
           onChange={handleOnChange}
         />
-        <button  class="import bt" type="submit">Import Csv</button>
+        <button  class="import bt" type="submit">Upload Data</button>
       </form>
       
       <button class="data bt" onClick={handleGetData}>Get Data</button>

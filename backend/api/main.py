@@ -42,7 +42,7 @@ def create_table():
     cursor = connection.cursor()
     cursor.execute(
         """
-        CREATE TABLE IF NOT EXISTS tickerdata1 (
+        CREATE TABLE IF NOT EXISTS tickerdata1(
             datetime VARCHAR(30) PRIMARY KEY,
             close FLOAT,
             high FLOAT,
