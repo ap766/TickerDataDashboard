@@ -2,22 +2,22 @@
 
 ## OUTPUTS 
 ### 1)The Output
-![t1 - Copy (3)](https://github.com/ap766/Assignment_/assets/79255079/9cb6909b-bb6c-47a7-aed4-39a998cb529d)
+![t1 - Copy (3)](https://github.com/ap766/TickerDataDashboard/assets/79255079/0981e7ea-9c91-4a3b-a712-962762ad1d5b)
 
 ### 2)Selecting and Uploading File
-![t2 - Copy](https://github.com/ap766/Assignment_/assets/79255079/6cc08c47-a0fb-4480-8b3e-b568604dc4db)
+![t2](https://github.com/ap766/TickerDataDashboard/assets/79255079/efbb489c-328f-4812-afe7-c7e51bb77070)
 
 ### 3)Uploaded File
-![t3 - Copy (2)](https://github.com/ap766/Assignment_/assets/79255079/c966e15a-b64b-496e-989d-61de5b61d4e0)
+![t3 - Copy (2)](https://github.com/ap766/TickerDataDashboard/assets/79255079/eeb1cbee-68ae-4d84-ad89-4abb31102541)
 
 ### 4)Clicking _Upload Data_
-![t4 - Copy (2)](https://github.com/ap766/Assignment_/assets/79255079/03a60c05-5d00-499b-be6e-05d95fb755ed)
+![t4 - Copy (2)](https://github.com/ap766/TickerDataDashboard/assets/79255079/9fa6330a-a6f7-4d10-9f18-2642a4619b20)
 
 ### 5)MySQL Table Created and Data Inserted
-![t5 - Copy (2)](https://github.com/ap766/Assignment_/assets/79255079/33652e00-3ffd-4822-9737-e2093582535c)
+![t5](https://github.com/ap766/TickerDataDashboard/assets/79255079/e85d5087-be11-4254-94b5-7e66ee5e6676)
 
 ### 6)Clicking _Get Data_
-![t6 - Copy (2)](https://github.com/ap766/Assignment_/assets/79255079/cef8431b-0f74-4e7d-86f6-254a35a677ab)
+![t6 - Copy (2)](https://github.com/ap766/TickerDataDashboard/assets/79255079/90fe3cdf-63c2-499d-ba8a-db95f9e05786)
 
 ## HOW TO RUN IT?
 ### 1)env file
