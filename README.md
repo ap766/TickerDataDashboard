@@ -1,4 +1,10 @@
-# Assignment
+# TickerDataDashboard
+## About
+1. Data is listed below for one ticker symbol. Create a table in a database (Postgres or MySQL). Use Python to insert data into the database.
+2. Build a simple app with React frontend and FastAPI backend. The user has two options:
+
+a. Upload Data: By clicking this button, the user should upload the CSV data and with the help of Rest APIs, the FastAPI backend should insert the data in the DB.
+b. Get data: On clicking this button, the API should fetch data from the DB and display it on the React frontend as a table.
 
 ## OUTPUTS 
 ### 1)The Output
